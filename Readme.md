@@ -73,6 +73,7 @@ These improvements, while ambitious, are feasible with additional resources and 
 - `vectorizer_improved.joblib`: TF-IDF vectorizer.
 - `predictions.log`: Log file for predictions (optional tracking).
 - `requirements.txt`: Dependency list.
+- `preprocess_and_train.py`: for preprocessing and training the dataset if needed.
 - `README.md`: This documentation.
 
 
@@ -82,3 +83,4 @@ Inspired by academic coursework and guided by self-directed learning, this proje
 ---
 
 *Last Updated: August 07, 2025*
+
