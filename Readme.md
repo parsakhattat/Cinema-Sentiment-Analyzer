@@ -75,11 +75,10 @@ These improvements, while ambitious, are feasible with additional resources and 
 - `requirements.txt`: Dependency list.
 - `README.md`: This documentation.
 
-## Made for CV
-This project showcases my expertise in machine learning, NLP, and web development. Check the code and live app on my GitHub: [Link to Repo]
 
 ## Acknowledgments
 Inspired by academic coursework and guided by self-directed learning, this project reflects my passion for data science. Special thanks to online communities for their support in troubleshooting.
 
 ---
+
 *Last Updated: August 07, 2025*
