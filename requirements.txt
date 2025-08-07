@@ -1,0 +1,14 @@
+# The Essentials for Running the App
+pandas==2.2.2           # For that neat prediction table
+nltk==3.8.1             # Helps with tokenizing and stopwords
+scikit-learn==1.5.1     # Powers the Logistic Regression and TF-IDF magic
+joblib==1.4.2           # Loads your model and vectorizer files
+streamlit==1.30.0       # Brings the app to life
+numpy==1.26.4           # The backbone for number crunching
+scipy==1.13.1           # Supports scikit-learn’s heavy lifting
+threadpoolctl==3.5.0    # Keeps scikit-learn running smoothly with multiple threads
+regex==2023.12.25       # Gives NLTK a boost with text handling
+
+# Tools for Preprocessing and Training
+matplotlib==3.9.2       # For plotting accuracy or confusion matrices during training
+seaborn==0.13.2         # Adds a polished look to those plots
